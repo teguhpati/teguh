@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
-import CANNIBAL
-from CANNIBAL import *
+import TEGUH-PATI
+from TEGUH-PATI import *
 from ckbot.ttypes import *
 from thrift.unverting import *
 from thrift.TMultiplexedProcessor import *
@@ -20,75 +20,75 @@ import ffmpy
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-#SEMOGA BERMANFAAT,,,CANNIBAL..
+SEMOGA BERMANFAAT,,,TEGUHPATI..
 
 
-cl = LineClient("teguhbot0010@gmail.com","teguh1234")
+cl = LineClient("01botsc@gmail.com","teguh1234")
 cl.log("Auth Token : " + str(cl.authToken))
 channel1 = LineChannel(cl,cl.server.CHANNEL_ID['LINE_TIMELINE'])
 cl.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
-ki = LineClient("hrudi7717@gmail.com","teguh1234")
+ki = LineClient("02botsc@gmail.com","teguh1234")
 ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki,ki.server.CHANNEL_ID['LINE_TIMELINE'])
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
 
-kk = LineClient("teguhbot0012@gmail.com","teguh1234")
+kk = LineClient("03botsc@gmail.com","teguh1234")
 kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
 
-kc = LineClient("teguhbot0013@gmail.com","teguh1234")
+kc = LineClient("04botsc@gmail.com","teguh1234")
 kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
 
-kb = LineClient("teguhbot0014@gmail.com","teguh1234")
+kb = LineClient("05botsc@gmail.com","teguh1234")
 kb.log("Auth Token : " + str(kb.authToken))
 channel4 = LineChannel(kb)
 kb.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
 
-kd = LineClient("teguhbot015@gmail.com","teguh1234")
+kd = LineClient("06botsc@gmail.com","teguh1234")
 kd.log("Auth Token : " + str(kd.authToken))
 channel5 = LineChannel(kd)
 kd.log("Channel Access Token : " + str(channel5.channelAccessToken))
 
 
-ke = LineClient("teguhbot0016@gmail.com","teguh1234")
+ke = LineClient("07botsc@gmail.com","teguh1234")
 ke.log("Auth Token : " + str(kd.authToken))
 channel6 = LineChannel(ke)
 ke.log("Channel Access Token : " + str(channel6.channelAccessToken))
 
 
-kf = LineClient("teguhbot0017@gmail.com","teguh1234")
+kf = LineClient("08botsc@gmail.com","teguh1234")
 kf.log("Auth Token : " + str(kd.authToken))
 channel7 = LineChannel(kf)
 kf.log("Channel Access Token : " + str(channel7.channelAccessToken))
 
 
-kg = LineClient("teguhbot018@gmail.com","teguh1234")
+kg = LineClient("09botsc@gmail.com","teguh1234")
 kg.log("Auth Token : " + str(kd.authToken))
 channel8 = LineChannel(kg)
 kg.log("Channel Access Token : " + str(channel8.channelAccessToken))
 
 
-kh = LineClient("teguhbot019@gmail.com","teguh1234")
+kh = LineClient("010botsc@gmail.com","teguh1234")
 kh.log("Auth Token : " + str(kd.authToken))
 channel9 = LineChannel(kh)
 kh.log("Channel Access Token : " + str(channel9.channelAccessToken))
 
 
-kj = LineClient("teguhbot020@gmail.com","teguh1234")
+kj = LineClient("011botsc@gmail.com","teguh1234")
 kj.log("Auth Token : " + str(kd.authToken))
 channel10 = LineChannel(kj)
 kj.log("Channel Access Token : " + str(channel10.channelAccessToken))
 
 
-sw = LineClient("teguhbot021@gmail.com","teguh1234")
+sw = LineClient("012botsc@gmail.com","teguh1234")
 sw.log("Auth Token : " + str(sw.authToken))
 channel11 = LineChannel(sw)
 sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
@@ -517,94 +517,94 @@ def atend():
 def help():
     key = Setmain["keyCommand"]
     key = key.title()
-    helpMessage = "[▶️]" + key + " [[┄┅═TEGUH_PATI═┅┄]]\n" + \
-                   "[▶️]" + key + "[[MENU TEGUH_PATI]]\n" + \
-                   "[▶️]" + key + "ʜᴇʟᴘ\n" + \
-                   "[▶️]" + key + "ʜᴇʟᴘ1\n" + \
-                   "[▶️]" + key + "ʜᴇʟᴘ2\n" + \
-                   "[▶️]" + key + "ʜᴇʟᴘ3\n" + \
-                   "[▶️]" + key + "ʜᴇʟᴘ4\n" + \
-                   "[▶️]" + key + "ʜᴇʟᴘ5\n" + \
-                   "[▶️]" + key + "ᴍᴇ\n" + \
-                   "[▶️]" + key + "sᴛᴀᴛᴜs\n" + \
-                   "[▶️]" + key + "ᴀʙᴏᴜᴛ\n" + \
-                   "[▶️]" + key + "ʀᴇsᴛᴀʀᴛ\n" + \
-                   "[▶️]" + key + "ʀᴜɴᴛɪᴍᴇ\n" + \
-                   "[▶️]" + key + "ᴄʀᴇᴀᴛᴏʀ\n" + \
-                   "[▶️]" + key + "sᴘᴇᴇᴅ/sᴘ\n" + \
-                   "[▶️]" + key + "Bot:on\off\n" + \
-                   "[▶️]" + key + "Staff:on\off\n" + \
-                   "[▶️]" + key + "Admin on\off\n" + \
-                   "[▶️]" + key + "Refresh\n" + \
-                   "[▶️]" + key + "Kibar\n" + \
-                   "[▶️]" + key + "klinik\n" + \
-                   "[▶️]" + key + "Masuk\n" + \
-                   "[▶️]" + key + "Pulang/sᴘ\n" + \
-                   "[▶️] [Kunci Protect]\n" + \
-                   "[▶️]" + key + "Antijs stay\n" + \
-                   "[▶️]" + key + "Ghost in\n" + \
-                   "[▶️]" + key + "Ckbot\n" + \
-                   "[▶️]" + key + "Reinvite\n" + \
-                   "[▶️]" + key + "Blc\n" + \
-                   "[▶️]" + key + "Clearban\n" + \
-                   "[▶️]" + key + "Adminadd @\n" + \
-                   "[▶️]" + key + "Admindell @\n" + \
-                   "[▶️]" + key + "protectkick on\off\n" + \
-                   "[▶️]" + key + "protectjoin on\off\n" + \
-                   "[▶️]" + key + "protectinvite on\off\n" + \
-                   "[▶️]" + key + "protecturl on\off\n" + \
-                   "[▶️]" + key + "Ghost on\off\n" + \
-                   "[▶️]" + key + "Bot1,2,3,4up\n" + \
-                   "[▶️]" + key + "Semua pro on\off\n" + \
-                   "[▶️]" + key + "Antijs on\n" + \
-                   "[▶️]" + key + "ᴋɪᴄᴋᴀʟʟᴍᴇᴍʙᴇʀ)\n" + \
-                   "[▶️]" + key + "ʙʀᴏᴀᴅᴄᴀsᴛ:「ᴛᴇxᴛ」\n" + \
-                   "[▶️]" + key + "sᴇᴛᴋᴇʏ「ɴᴇᴡ ᴋᴇʏ」 \n" + \
-                   "[▶️]" + key + "ᴍʏᴋᴇʏ\n" + \
-                   "[▶️]" + key + "ʀᴇsᴇᴛᴋᴇʏ\n" + \
-                   "[▶️]" + key + "ʀᴇғʀᴇsʜ\n" + \
-                   "[▶️]" + key + "Restart\n"+ \
-                   "[▶️] [[┄┅═TEGUH_PATI═┅┄]]"
+    helpMessage = "▶️" + key + " [[┄┅═TEGUH_PATI═┅┄]]\n" + \
+                   "▶️" + key + "[[MENU TEGUH_PATI]]\n" + \
+                   "▶️" + key + "ʜᴇʟᴘ\n" + \
+                   "▶️" + key + "ʜᴇʟᴘ1\n" + \
+                   "▶️" + key + "ʜᴇʟᴘ2\n" + \
+                   "▶️" + key + "ʜᴇʟᴘ3\n" + \
+                   "▶️" + key + "ʜᴇʟᴘ4\n" + \
+                   "▶️" + key + "ʜᴇʟᴘ5\n" + \
+                   "▶️" + key + "ᴍᴇ\n" + \
+                   "▶️" + key + "sᴛᴀᴛᴜs\n" + \
+                   "▶️" + key + "ᴀʙᴏᴜᴛ\n" + \
+                   "▶️" + key + "ʀᴇsᴛᴀʀᴛ\n" + \
+                   "▶️" + key + "ʀᴜɴᴛɪᴍᴇ\n" + \
+                   "▶️" + key + "ᴄʀᴇᴀᴛᴏʀ\n" + \
+                   "▶️" + key + "sᴘᴇᴇᴅ/sᴘ\n" + \
+                   "▶️" + key + "Bot:on\off\n" + \
+                   "▶️" + key + "Staff:on\off\n" + \
+                   "▶️" + key + "Admin on\off\n" + \
+                   "▶️" + key + "Refresh\n" + \
+                   "▶️" + key + "Kibar\n" + \
+                   "▶️" + key + "klinik\n" + \
+                   "▶️" + key + "Masuk\n" + \
+                   "▶️" + key + "Pulang/sᴘ\n" + \
+                   "▶️ [Kunci Protect]\n" + \
+                   "▶️" + key + "Antijs stay\n" + \
+                   "▶️" + key + "Ghost in\n" + \
+                   "▶️" + key + "Teguhbot\n" + \
+                   "▶️" + key + "Reinvite\n" + \
+                   "▶️" + key + "Blc\n" + \
+                   "▶️" + key + "Clearban\n" + \
+                   "▶️" + key + "Adminadd @\n" + \
+                   "▶️" + key + "Admindell @\n" + \
+                   "▶️" + key + "protectkick on\off\n" + \
+                   "▶️" + key + "protectjoin on\off\n" + \
+                   "▶️" + key + "protectinvite on\off\n" + \
+                   "▶️" + key + "protecturl on\off\n" + \
+                   "▶️" + key + "Ghost on\off\n" + \
+                   "▶️" + key + "Bot1,2,3,4up\n" + \
+                   "▶️" + key + "Semua pro on\off\n" + \
+                   "▶️" + key + "Antijs on\n" + \
+                   "▶️" + key + "ᴋɪᴄᴋᴀʟʟᴍᴇᴍʙᴇʀ)\n" + \
+                   "▶️" + key + "ʙʀᴏᴀᴅᴄᴀsᴛ:「ᴛᴇxᴛ」\n" + \
+                   "▶️" + key + "sᴇᴛᴋᴇʏ「ɴᴇᴡ ᴋᴇʏ」 \n" + \
+                   "▶️" + key + "ᴍʏᴋᴇʏ\n" + \
+                   "▶️" + key + "ʀᴇsᴇᴛᴋᴇʏ\n" + \
+                   "▶️" + key + "ʀᴇғʀᴇsʜ\n" + \
+                   "▶️" + key + "Restart\n"+ \
+                   "▶️ [[┄┅═TEGUH_PATI═┅┄]]"
 
     return helpMessage
 
 def help1():
     key = Setmain["keyCommand"]
     key = key.title()
-    helpMessage1 = "[▶️]" + key + " [[┄┅═TEGUH_PATI═┅┄]]\n" + \
-                  "[▶️]" + key + "ᴛᴀɢᴀʟʟ/ɴᴀʜ\n" + \
-                  "[▶️]" + key + "ɢɪɴғᴏ\n" + \
-                  "[▶️]" + key + "ᴏᴘᴇɴ\n" + \
-                  "[▶️]" + key + "ᴄʟᴏsᴇ\n" + \
-                  "[▶️]" + key + "ᴜʀʟ\n" + \
-                  "[▶️]" + key + "ɢʀᴜᴘʟɪsᴛ\n" + \
-                  "[▶️]" + key + "Kibar\n" + \
-                  "[▶️]" + key + "Ckbot\n" + \
-                  "[▶️]" + key + "Harga\n" + \
-                  "[▶️]" + key + "Promo\n" + \
-                  "[▶️]" + key + "ɪɴғᴏɢʀᴜᴘ「ɴᴏᴍᴇʀ」\n" + \
-                  "[▶️]" + key + "ɪɴғᴏᴍᴇᴍ「ɴᴏᴍᴇʀ」\n" + \
-                  "[▶️]" + key + "ʀᴇᴍᴏᴠᴇ ᴄʜᴀᴛ\n" + \
-                  "[▶️]" + key + "ᴍɪᴅ「@」\n" + \
-                  "[▶️]" + key + "sᴛᴇᴀʟ「@」\n" + \
-                  "[▶️]" + key + "ᴄᴏᴠᴇʀ「@」\n" + \
-                  "[▶️]" + key + "ᴄʟᴏɴᴇ「@」\n" + \
-                  "[▶️]" + key + "ʀᴇsᴛᴏʀᴇ\n" + \
-                  "[▶️]" + key + "ʙᴀᴄᴋᴜᴘ\n" + \
-                  "[▶️]" + key + "ʀᴇᴊᴇᴄᴛ\n" + \
-                  "[▶️]" + key + "sᴘᴀᴍᴄᴀʟʟᴛᴏ 「ᴊᴜᴍʟᴀʜ」 「@」\n" + \
-                  "[▶️]" + key + "sᴘᴀᴍᴛᴀɢ:「ᴊᴜᴍʟᴀʜɴʏᴀ」\n" + \
-                  "[▶️]" + key + "sᴘᴀᴍᴛᴀɢ「@」\n" + \
-                  "[▶️]" + key + "sᴘᴀᴍᴄᴀʟʟ:「ᴊᴜᴍʟᴀʜɴʏᴀ」\n" + \
-                  "[▶️]" + key + "sᴘᴀᴍᴄᴀʟʟ\n" + \
-                  "[▶️]" + key + "ᴍʏɴᴀᴍᴇ:「ɴᴀᴍᴀ」\n" + \
-                  "[▶️]" + key + "ᴄᴘᴘ「ᴋɪʀɪᴍ ғᴏᴛᴏɴʏᴀ」\n" + \
-                  "[▶️]" + key + "ᴄᴠᴘ 「ᴋɪʀɪᴍ ᴠɪᴅᴇᴏɴʏᴀ」\n" + \
-                  "[▶️]" + key + "ᴜᴘᴅᴀᴛᴇɢʀᴜᴘ\n" + \
-                  "[▶️]" + key + "ɢɪғᴛ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
-                  "[▶️]" + key + "sᴘᴀᴍ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
+    helpMessage1 = "▶️" + key + " [[┄┅═TEGUH_PATI═┅┄]]\n" + \
+                  "▶️" + key + "ᴛᴀɢᴀʟʟ/ɴᴀʜ\n" + \
+                  "▶️" + key + "ɢɪɴғᴏ\n" + \
+                  "▶️" + key + "ᴏᴘᴇɴ\n" + \
+                  "▶️" + key + "ᴄʟᴏsᴇ\n" + \
+                  "▶️" + key + "ᴜʀʟ\n" + \
+                  "▶️" + key + "ɢʀᴜᴘʟɪsᴛ\n" + \
+                  "▶️" + key + "Kibar\n" + \
+                  "▶️" + key + "Teguhbot\n" + \
+                  "▶️" + key + "Harga\n" + \
+                  "▶️" + key + "Promo\n" + \
+                  "▶️" + key + "ɪɴғᴏɢʀᴜᴘ「ɴᴏᴍᴇʀ」\n" + \
+                  "▶️" + key + "ɪɴғᴏᴍᴇᴍ「ɴᴏᴍᴇʀ」\n" + \
+                  "▶️" + key + "ʀᴇᴍᴏᴠᴇ ᴄʜᴀᴛ\n" + \
+                  "▶️" + key + "ᴍɪᴅ「@」\n" + \
+                  "▶️" + key + "sᴛᴇᴀʟ「@」\n" + \
+                  "▶️" + key + "ᴄᴏᴠᴇʀ「@」\n" + \
+                  "▶️" + key + "ᴄʟᴏɴᴇ「@」\n" + \
+                  "▶️" + key + "ʀᴇsᴛᴏʀᴇ\n" + \
+                  "▶️" + key + "ʙᴀᴄᴋᴜᴘ\n" + \
+                  "▶️" + key + "ʀᴇᴊᴇᴄᴛ\n" + \
+                  "▶️" + key + "sᴘᴀᴍᴄᴀʟʟᴛᴏ 「ᴊᴜᴍʟᴀʜ」 「@」\n" + \
+                  "▶️" + key + "sᴘᴀᴍᴛᴀɢ:「ᴊᴜᴍʟᴀʜɴʏᴀ」\n" + \
+                  "▶️" + key + "sᴘᴀᴍᴛᴀɢ「@」\n" + \
+                  "▶️" + key + "sᴘᴀᴍᴄᴀʟʟ:「ᴊᴜᴍʟᴀʜɴʏᴀ」\n" + \
+                  "▶️" + key + "sᴘᴀᴍᴄᴀʟʟ\n" + \
+                  "▶️" + key + "ᴍʏɴᴀᴍᴇ:「ɴᴀᴍᴀ」\n" + \
+                  "▶️" + key + "ᴄᴘᴘ「ᴋɪʀɪᴍ ғᴏᴛᴏɴʏᴀ」\n" + \
+                  "▶️" + key + "ᴄᴠᴘ 「ᴋɪʀɪᴍ ᴠɪᴅᴇᴏɴʏᴀ」\n" + \
+                  "▶️" + key + "ᴜᴘᴅᴀᴛᴇɢʀᴜᴘ\n" + \
+                  "▶️" + key + "ɢɪғᴛ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
+                  "▶️" + key + "sᴘᴀᴍ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
                   "「▶️」  ʙʏ: [[┄┅═TEGUH BOT PROTECT═┅┄]]\n" + \
-                  "  Creator: https://line.me/ti/p/D "
+                  "  Creator: https://line.me/ti/p/Exv7vmiRm7 "
                   
     return helpMessage1
 
@@ -612,32 +612,32 @@ def help2():
     key = Setmain["keyCommand"]
     key = key.title()
     helpMessage2= "      「PENGATURAN」\n" + \
-                  "「▶️」 " + key + "ɪɴᴠɪᴛᴇ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "sᴛɪᴄᴋᴇʀ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "ᴜɴsᴇɴᴅ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "sɪᴅᴇʀ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "ʀᴇsᴘᴏɴ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "ᴛɪᴍᴇʟɪɴᴇ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "ᴄᴏɴᴛᴀᴄᴛ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "ᴀᴜᴛᴏᴊᴏɪɴ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️」 " + key + "ᴀᴜᴛᴏᴀᴅᴅ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️]  " + key + "ᴡᴇʟᴄᴏᴍᴇ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️]  " + key + "ᴀᴜᴛᴏʟᴇᴀᴠᴇ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️]  " + key + "ᴊᴏɪɴᴛɪᴄᴋᴇᴛ「ᴏɴ/ᴏғғ」\n" + \
-                  "「▶️]  " + key + "ᴄᴇᴋ sɪᴅᴇʀ\n" + \
-                  "「▶️]  " + key + "ᴄᴇᴋ sᴘᴀᴍ\n" + \
-                  "「▶️]  " + key + "ᴄᴇᴋ ᴘᴇsᴀɴ  \n" + \
-                  "「▶️]  " + key + "ᴄᴇᴋ ʀᴇsᴘᴏɴ \n" + \
-                  "「▶️]  " + key + "ᴄᴇᴋ ʟᴇᴀᴠᴇ\n" + \
-                  "「▶️]  " + key + "ᴄᴇᴋ ᴡᴇʟᴄᴏᴍᴇ\n" + \
-                  "「▶️]  " + key + "sᴇᴛ sɪᴅᴇʀ:「ᴛᴇxᴛ」\n" + \
-                  "「▶️]  " + key + "sᴇᴛ sᴘᴀᴍ:「ᴛᴇxᴛ」」\n" + \
-                  "「▶️]  " + key + "sᴇᴛ ᴘᴇsᴀɴ:「ᴛᴇxᴛ」\n" + \
-                  "「▶️]  " + key + "sᴇᴛ ʀᴇsᴘᴏɴ:「ᴛᴇxᴛ」\n" + \
-                  "「▶️]  " + key + "sᴇᴛ ʟᴇᴀᴠᴇ:「ᴛᴇxᴛ」\n" + \
-                  "「▶️]  " + key + "sᴇᴛ ᴡᴇʟᴄᴏᴍᴇ:「ᴛᴇxᴛ」\n" + \
+                  "▶️ " + key + "ɪɴᴠɪᴛᴇ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "sᴛɪᴄᴋᴇʀ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴜɴsᴇɴᴅ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "sɪᴅᴇʀ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ʀᴇsᴘᴏɴ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴛɪᴍᴇʟɪɴᴇ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴄᴏɴᴛᴀᴄᴛ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴀᴜᴛᴏᴊᴏɪɴ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴀᴜᴛᴏᴀᴅᴅ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴡᴇʟᴄᴏᴍᴇ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴀᴜᴛᴏʟᴇᴀᴠᴇ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴊᴏɪɴᴛɪᴄᴋᴇᴛ「ᴏɴ/ᴏғғ」\n" + \
+                  "▶️ " + key + "ᴄᴇᴋ sɪᴅᴇʀ\n" + \
+                  "▶️ " + key + "ᴄᴇᴋ sᴘᴀᴍ\n" + \
+                  "▶️ " + key + "ᴄᴇᴋ ᴘᴇsᴀɴ  \n" + \
+                  "▶️ " + key + "ᴄᴇᴋ ʀᴇsᴘᴏɴ \n" + \
+                  "▶️ " + key + "ᴄᴇᴋ ʟᴇᴀᴠᴇ\n" + \
+                  "▶️ " + key + "ᴄᴇᴋ ᴡᴇʟᴄᴏᴍᴇ\n" + \
+                  "▶️ " + key + "sᴇᴛ sɪᴅᴇʀ:「ᴛᴇxᴛ」\n" + \
+                  "▶️ " + key + "sᴇᴛ sᴘᴀᴍ:「ᴛᴇxᴛ」」\n" + \
+                  "▶️ " + key + "sᴇᴛ ᴘᴇsᴀɴ:「ᴛᴇxᴛ」\n" + \
+                  "▶️ " + key + "sᴇᴛ ʀᴇsᴘᴏɴ:「ᴛᴇxᴛ」\n" + \
+                  "▶️ " + key + "sᴇᴛ ʟᴇᴀᴠᴇ:「ᴛᴇxᴛ」\n" + \
+                  "▶️ " + key + "sᴇᴛ ᴡᴇʟᴄᴏᴍᴇ:「ᴛᴇxᴛ」\n" + \
                   " [[┄┅═TEGUH BOT PROTECT═┅┄]]\n" + \
-                  "Creator: https://line.me/ti/p/D"
+                  "Creator: https://line.me/ti/p/Exv7vmiRm7 "
 
     return helpMessage3
 
@@ -2956,7 +2956,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「 ɢᴀᴍʙᴀʀ ᴅɪʜᴀᴘᴜs  」\n• ❂➣ ᴘᴇɴɢɪʀɪᴍ : "
+                                xpesan =  "「 ɢᴀᴍʙᴀʀ ᴅɪʜᴀᴘᴜs  」\n• ❂ ᴘᴇɴɢɪʀɪᴍ : "
                                 ret_ = "• ❂➣ ɴᴀᴍᴀ ɢʀᴜᴘ: {}".format(str(ginfo.name))
                                 ret_ += "\n• ❂➣ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
                                 ret_ += "\n▶️TEGUH BOT"
@@ -2976,10 +2976,10 @@ def bot(op):
                                 ginfo = cl.getGroup(at)
                                 ryan = cl.getContact(msg_dict[msg_id]["from"])
                                 ret_ =  "「 ᴘᴇsᴀɴ ᴅɪʜᴀᴘᴜs  」\n"
-                                ret_ += "• ❂➣ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
-                                ret_ += "\n• ❂➣ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
-                                ret_ += "\n• ❂➣ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ: {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
-                                ret_ += "\n• ❂➣ᴘᴇsᴀɴɴʏᴀ : {}".format(str(msg_dict[msg_id]["text"]))
+                                ret_ += "• ❂ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
+                                ret_ += "\n• ❂ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
+                                ret_ += "\n• ❂ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ: {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
+                                ret_ += "\n• ❂ᴘᴇsᴀɴɴʏᴀ : {}".format(str(msg_dict[msg_id]["text"]))
                                 ret_ += "\nTEGUH BOTS"
                                 ret_ += "\nCreator:  https://line.me/ti/p/D"
                                 cl.sendMessage(at, str(ret_))
@@ -2997,9 +2997,9 @@ def bot(op):
                                 ginfo = cl.getGroup(at)
                                 ryan = cl.getContact(msg_dict1[msg_id]["from"])
                                 ret_ =  "「 sᴛɪᴄᴋᴇʀ ᴅɪʜᴀᴘᴜs」\n"
-                                ret_ += "• ❂➣ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
-                                ret_ += "\n• ❂➣ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
-                                ret_ += "\n• ❂➣ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict1[msg_id]["createdTime"])))
+                                ret_ += "• ❂ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
+                                ret_ += "\n• ❂ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
+                                ret_ += "\n• ❂ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict1[msg_id]["createdTime"])))
                                 ret_ += "\nTEGUH BOTS"
                                 ret_ += "\nCreator:  https://line.me/ti/p/D"
                                 ret_ += "{}".format(str(msg_dict1[msg_id]["text"]))
@@ -3510,7 +3510,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「CANNIBAL™️」\n• User : "
+                                xpesan =  "「TEGUHPATI」\n• User : "
                                 ret_ = str(helpMessage)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -3531,7 +3531,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「CANNIBAL™️」\n• User : "
+                                xpesan =  "「TEGUHPATI」\n• User : "
                                 ret_ = str(helpMessage1)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -3552,7 +3552,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「CANNIBAL™️」\n• User : "
+                                xpesan =  "「TEGUHPATI」\n• User : "
                                 ret_ = str(helpMessage2)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -3573,7 +3573,7 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「CANNIBAL™️」\n• User : "
+                                xpesan =  "「TEGUHPATI」\n• User : "
                                 ret_ = str(helpMessage3)
                                 ry = str(ryan.displayName)
                                 pesan = ''
@@ -3593,43 +3593,43 @@ def bot(op):
                                 timeNow = datetime.now(tz=tz)
                                 md = "\n       「◀️STATUS▶️」\n"
                                 if wait["stickerOn"] == True: md+="「▶️」 Sticker「ON」🔛\n"
-                                else: md+="「▶️」 Sticker「OFF」📴\n"
+                                else: md+="▶️ Sticker「OFF」📴\n"
                                 if wait["contact"] == True: md+="「▶️」 Contact「ON」🔛\n"
-                                else: md+="「▶️」 Contact「OFF」📴\n"
+                                else: md+="▶️ Contact「OFF」📴\n"
                                 if wait["talkban"] == True: md+="「▶️」 Talkban「ON」🔛\n"
-                                else: md+="「▶️」 Talkban「OFF」📴\n"
+                                else: md+="▶️ Talkban「OFF」📴\n"
                                 if wait["unsend"] == True: md+="「▶️」 Unsend「ON」🔛\n"
-                                else: md+="「▶️」 Unsend「OFF」📴\n"
+                                else: md+="▶️ Unsend「OFF」📴\n"
                                 if settings["SpamInvite"] == True: md+="「▶️」 Spaminvite「ON」🔛\n"
-                                else: md+="「▶️」 Spaminvite「OFF」📴\n"
+                                else: md+="▶️ Spaminvite「OFF」📴\n"
                                 if wait["detectMention"] == True: md+="「▶️」 Respon「ON」🔛\n"
-                                else: md+="「▶️」 Respon「OFF」📴\n"
+                                else: md+="▶️ Respon「OFF」📴\n"
                                 if wait["Timeline"] == True: md+="「▶️」 Timeline「ON」🔛\n"
-                                else: md+="「▶️」 Timeline「OFF」📴\n"
+                                else: md+="▶️ Timeline「OFF」📴\n"
                                 if wait["autoJoin"] == True: md+="「▶️」 Autojoin「ON」🔛\n"
-                                else: md+="「▶️」 Autojoin「OFF」📴\n"
+                                else: md+="▶️ Autojoin「OFF」📴\n"
                                 if wait["autoAdd"] == True: md+="「▶️」 Autoadd「ON」🔛\n"
-                                else: md+="「▶️」 Autoadd「OFF」📴\n"
+                                else: md+="▶️ Autoadd「OFF」📴\n"
                                 if settings["autoJoinTicket"] == True: md+="「✭」 Jointicket「ON」🔛\n"
-                                else: md+="「▶️」 Jointicket「OFF」📴\n"
+                                else: md+="▶️ Jointicket「OFF」📴\n"
                                 if msg.to in welcome: md+="「▶️」 Welcome「ON」🔛\n"
-                                else: md+="「▶️」 Welcome「OFF」📴\n"
+                                else: md+="▶️ Welcome「OFF」📴\n"
                                 if wait["autoLeave"] == True: md+="「▶️」 Autoleave「ON」🔛\n"
-                                else: md+="「▶️」 Autoleave「OFF」📴\n"
+                                else: md+="▶️ Autoleave「OFF」📴\n"
                                 if msg.to in protectqr: md+="「▶️」Protecturl「ON」🔛\n"
-                                else: md+="「▶️」Protecturl「OFF」📴\n"
+                                else: md+="▶️Protecturl「OFF」📴\n"
                                 if msg.to in protectjoin: md+="「▶️」Protectjoin「ON」🔛\n"
-                                else: md+="「▶️」Protectjoin「OFF」📴\n"
+                                else: md+="▶️Protectjoin「OFF」📴\n"
                                 if msg.to in protectjoin: md+="「▶️」Protectinvite「ON」🔛\n"
-                                else: md+="「▶️」Protecinvite「OFF」📴\n"
+                                else: md+="▶️Protecinvite「OFF」📴\n"
                                 if msg.to in protectkick: md+="「▶️」Protectkick「ON」🔛\n"
-                                else: md+="「▶️」Protectkick「OFF」📴\n"
+                                else: md+="▶️Protectkick「OFF」📴\n"
                                 if msg.to in protectcancel: md+="「▶️」Protectcancel「ON」🔛\n"
-                                else: md+="「▶️」Protectcancel「OFF」📴\n"
+                                else: md+="▶️Protectcancel「OFF」📴\n"
                                 if msg.to in protectantijs: md+="「▶️」Antijs「ON」🔛\n"
-                                else: md+="「▶️」Antijs「OFF」📴\n"  
+                                else: md+="▶️Antijs「OFF」📴\n"  
                                 if msg.to in ghost: md+="「▶️」Ghost「ON」🔛\n"
-                                else: md+="「▶️」Ghost「OFF」📴\n"
+                                else: md+="▶️Ghost「OFF」📴\n"
                                 ginfo = cl.getGroup(msg.to)
                                 ryan = cl.getContact(mid)
                                 zx = ""
