@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
-import TEGUH
-from TEGUH import *
+import CANNIBAL
+from CANNIBAL import *
 from ckbot.ttypes import *
 from thrift.unverting import *
 from thrift.TMultiplexedProcessor import *
@@ -519,12 +519,12 @@ def help():
     key = key.title()
     helpMessage = "▶️" + key + " [[┄┅═TEGUH_PATI═┅┄]]\n" + \
                    "▶️" + key + "[[MENU TEGUH_PATI]]\n" + \
-                   "▶️" + key + "ʜᴇʟᴘ\n" + \
-                   "▶️" + key + "ʜᴇʟᴘ1\n" + \
-                   "▶️" + key + "ʜᴇʟᴘ2\n" + \
-                   "▶️" + key + "ʜᴇʟᴘ3\n" + \
-                   "▶️" + key + "ʜᴇʟᴘ4\n" + \
-                   "▶️" + key + "ʜᴇʟᴘ5\n" + \
+                   "▶️" + key + "ʜ\n" + \
+                   "▶️" + key + "ʜ1\n" + \
+                   "▶️" + key + "ʜ2\n" + \
+                   "▶️" + key + "ʜ3\n" + \
+                   "▶️" + key + "ʜ4\n" + \
+                   "▶️" + key + "ʜ5\n" + \
                    "▶️" + key + "ᴍᴇ\n" + \
                    "▶️" + key + "sᴛᴀᴛᴜs\n" + \
                    "▶️" + key + "ᴀʙᴏᴜᴛ\n" + \
@@ -3502,7 +3502,7 @@ def bot(op):
                                 wait["selfbot"] = False
                                 cl.sendText(msg.to, "Selfbot dinonaktifkan")
                                             
-                        elif cmd == "help":
+                        elif cmd == "h":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 helpMessage = help()
@@ -3523,7 +3523,7 @@ def bot(op):
                                 text = xpesan + zxc + ret_ + ""
                                 cl.sendMessage(to, text, contentMetadata={'MENTION':str('{"MENTIONEES":'+json.dumps(zx2).replace(' ','')+'}')}, contentType=0)
 
-                        elif cmd == "help1":
+                        elif cmd == "h1":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 helpMessage1 = help1()
@@ -3544,7 +3544,7 @@ def bot(op):
                                 text = xpesan + zxc + ret_ + ""
                                 cl.sendMessage(to, text, contentMetadata={'MENTION':str('{"MENTIONEES":'+json.dumps(zx2).replace(' ','')+'}')}, contentType=0)
 
-                        elif cmd == "help2":
+                        elif cmd == "h2":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 helpMessage2 = help2()
@@ -3565,7 +3565,7 @@ def bot(op):
                                 text = xpesan + zxc + ret_ + ""
                                 cl.sendMessage(to, text, contentMetadata={'MENTION':str('{"MENTIONEES":'+json.dumps(zx2).replace(' ','')+'}')}, contentType=0)
 
-                        elif cmd == "help3":
+                        elif cmd == "h3":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 helpMessage3 = help3()
@@ -3592,43 +3592,43 @@ def bot(op):
                                 tz = pytz.timezone("Asia/Jakarta")
                                 timeNow = datetime.now(tz=tz)
                                 md = "\n       「◀️STATUS▶️」\n"
-                                if wait["stickerOn"] == True: md+="「▶️」 Sticker「ON」🔛\n"
+                                if wait["stickerOn"] == True: md+="▶️ Sticker「ON」🔛\n"
                                 else: md+="▶️ Sticker「OFF」📴\n"
-                                if wait["contact"] == True: md+="「▶️」 Contact「ON」🔛\n"
+                                if wait["contact"] == True: md+="▶️ Contact「ON」🔛\n"
                                 else: md+="▶️ Contact「OFF」📴\n"
-                                if wait["talkban"] == True: md+="「▶️」 Talkban「ON」🔛\n"
+                                if wait["talkban"] == True: md+="▶️ Talkban「ON」🔛\n"
                                 else: md+="▶️ Talkban「OFF」📴\n"
-                                if wait["unsend"] == True: md+="「▶️」 Unsend「ON」🔛\n"
+                                if wait["unsend"] == True: md+="▶️ Unsend「ON」🔛\n"
                                 else: md+="▶️ Unsend「OFF」📴\n"
-                                if settings["SpamInvite"] == True: md+="「▶️」 Spaminvite「ON」🔛\n"
+                                if settings["SpamInvite"] == True: md+="▶️ Spaminvite「ON」🔛\n"
                                 else: md+="▶️ Spaminvite「OFF」📴\n"
-                                if wait["detectMention"] == True: md+="「▶️」 Respon「ON」🔛\n"
+                                if wait["detectMention"] == True: md+="▶️ Respon「ON」🔛\n"
                                 else: md+="▶️ Respon「OFF」📴\n"
-                                if wait["Timeline"] == True: md+="「▶️」 Timeline「ON」🔛\n"
+                                if wait["Timeline"] == True: md+="▶️ Timeline「ON」🔛\n"
                                 else: md+="▶️ Timeline「OFF」📴\n"
-                                if wait["autoJoin"] == True: md+="「▶️」 Autojoin「ON」🔛\n"
+                                if wait["autoJoin"] == True: md+="▶️ Autojoin「ON」🔛\n"
                                 else: md+="▶️ Autojoin「OFF」📴\n"
-                                if wait["autoAdd"] == True: md+="「▶️」 Autoadd「ON」🔛\n"
+                                if wait["autoAdd"] == True: md+="▶️ Autoadd「ON」🔛\n"
                                 else: md+="▶️ Autoadd「OFF」📴\n"
                                 if settings["autoJoinTicket"] == True: md+="「✭」 Jointicket「ON」🔛\n"
                                 else: md+="▶️ Jointicket「OFF」📴\n"
-                                if msg.to in welcome: md+="「▶️」 Welcome「ON」🔛\n"
+                                if msg.to in welcome: md+="▶️ Welcome「ON」🔛\n"
                                 else: md+="▶️ Welcome「OFF」📴\n"
-                                if wait["autoLeave"] == True: md+="「▶️」 Autoleave「ON」🔛\n"
+                                if wait["autoLeave"] == True: md+="▶️ Autoleave「ON」🔛\n"
                                 else: md+="▶️ Autoleave「OFF」📴\n"
                                 if msg.to in protectqr: md+="「▶️」Protecturl「ON」🔛\n"
                                 else: md+="▶️Protecturl「OFF」📴\n"
-                                if msg.to in protectjoin: md+="「▶️」Protectjoin「ON」🔛\n"
+                                if msg.to in protectjoin: md+="▶️Protectjoin「ON」🔛\n"
                                 else: md+="▶️Protectjoin「OFF」📴\n"
-                                if msg.to in protectjoin: md+="「▶️」Protectinvite「ON」🔛\n"
+                                if msg.to in protectjoin: md+="▶️Protectinvite「ON」🔛\n"
                                 else: md+="▶️Protecinvite「OFF」📴\n"
-                                if msg.to in protectkick: md+="「▶️」Protectkick「ON」🔛\n"
+                                if msg.to in protectkick: md+="▶️Protectkick「ON」🔛\n"
                                 else: md+="▶️Protectkick「OFF」📴\n"
-                                if msg.to in protectcancel: md+="「▶️」Protectcancel「ON」🔛\n"
+                                if msg.to in protectcancel: md+="▶️Protectcancel「ON」🔛\n"
                                 else: md+="▶️Protectcancel「OFF」📴\n"
-                                if msg.to in protectantijs: md+="「▶️」Antijs「ON」🔛\n"
+                                if msg.to in protectantijs: md+="▶️Antijs「ON」🔛\n"
                                 else: md+="▶️Antijs「OFF」📴\n"  
-                                if msg.to in ghost: md+="「▶️」Ghost「ON」🔛\n"
+                                if msg.to in ghost: md+="▶️Ghost「ON」🔛\n"
                                 else: md+="▶️Ghost「OFF」📴\n"
                                 ginfo = cl.getGroup(msg.to)
                                 ryan = cl.getContact(mid)
@@ -3694,7 +3694,7 @@ def bot(op):
                                 ret_ += "\n• ✡༎⎑  ༓ɪɴ ᴅᴀʏs : {} ᴀɢᴀɪɴ".format(days)
                                 ret_ += "\n「 sᴘᴇᴇᴅ ʀᴇsᴘᴏɴ 」\n• ✡༎⎑  ༓{} ᴅᴇᴛɪᴋ".format(str(elapsed_time))
                                 ret_ += "\n「 sᴇʟғʙᴏᴛ ʀᴜɴᴛɪᴍᴇ 」\n• ✡༎⎑  ༓{}".format(str(bot))
-                                ret_ += "\n▶️ʙʏ: TEGUH BOT▶️"
+                                ret_ += "\n▶️ʙʏ: TEGUH-BOT▶️"
                                 ry = str(ryan.displayName)
                                 pesan = ''
                                 pesan2 = pesan+"@x \n"
@@ -4368,11 +4368,11 @@ def bot(op):
                                 cl.updateProfile(profile)
                                 cl.sendMessage(msg.to,"Nama diganti jadi " + string + "")
 #KICKALL
-                        elif "!curut" in msg.text:
+                        elif "halo." in msg.text:
                           if msg._from in admin:
                            if msg.toType == 2:
                               print("ok")
-                              _name = msg.text.replace("!curut","haii")
+                              _name = msg.text.replace("halo.")
                               gs = cl.getGroup(msg.to)
                               gs = cl.getGroup(msg.to)
                               gs = cl.getGroup(msg.to)
@@ -6293,7 +6293,7 @@ def bot(op):
                                 except:
                                     pass           
 
-                        elif cmd == ".m":
+                        elif cmd == "mm":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
@@ -6324,7 +6324,7 @@ def bot(op):
                                 G.preventedJoinByTicket = True
                                 cl.updateGroup(G)
 
-                        elif cmd == ".p":
+                        elif cmd == "pp":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
