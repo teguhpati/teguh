@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*- 
-import TEGUH-PATI
-from TEGUH-PATI import *
+import TEGUHPATI
+from TEGUHPATI import *
 from ckbot.ttypes import *
 from thrift.unverting import *
 from thrift.TMultiplexedProcessor import *
