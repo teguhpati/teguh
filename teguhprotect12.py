@@ -20,86 +20,86 @@ import ffmpy
 from bs4 import BeautifulSoup
 from googletrans import Translator
 import youtube_dl
-#SEMOGA BERMANFAAT,,,TEGUHPATI..
+#SEMOGA BERMANFAAT TEGUHPATI
 
 
-cl = LineClient("01botsc@gmail.com","teguh1234")
+cl = LineClient("02botsc@gmail.com","teguh1234")
 cl.log("Auth Token : " + str(cl.authToken))
 channel1 = LineChannel(cl,cl.server.CHANNEL_ID['LINE_TIMELINE'])
 cl.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
-ki = LineClient("02botsc@gmail.com","teguh1234")
+ki = LineClient("botpati02@gmail.com","teguh1234")
 ki.log("Auth Token : " + str(ki.authToken))
 channel1 = LineChannel(ki,ki.server.CHANNEL_ID['LINE_TIMELINE'])
 ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
 
 
-kk = LineClient("03botsc@gmail.com","teguh1234")
+kk = LineClient("botpati03@gmail.com","teguh1234")
 kk.log("Auth Token : " + str(kk.authToken))
 channel2 = LineChannel(kk)
 kk.log("Channel Access Token : " + str(channel2.channelAccessToken))
 
 
-kc = LineClient("04botsc@gmail.com","teguh1234")
+kc = LineClient("botdua007@gmail.com","teguh1234")
 kc.log("Auth Token : " + str(kc.authToken))
 channel3 = LineChannel(kc)
 kc.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
 
-kb = LineClient("05botsc@gmail.com","teguh1234")
+kb = LineClient("teguhpati380@gmail.com","teguh1234")
 kb.log("Auth Token : " + str(kb.authToken))
 channel4 = LineChannel(kb)
 kb.log("Channel Access Token : " + str(channel3.channelAccessToken))
 
 
-kd = LineClient("06botsc@gmail.com","teguh1234")
+kd = LineClient("teguhbot003@gmail.com","teguh1234")
 kd.log("Auth Token : " + str(kd.authToken))
 channel5 = LineChannel(kd)
 kd.log("Channel Access Token : " + str(channel5.channelAccessToken))
 
 
-ke = LineClient("07botsc@gmail.com","teguh1234")
+ke = LineClient("teguhbot007@gmail.com","teguh1234")
 ke.log("Auth Token : " + str(kd.authToken))
 channel6 = LineChannel(ke)
 ke.log("Channel Access Token : " + str(channel6.channelAccessToken))
 
 
-kf = LineClient("08botsc@gmail.com","teguh1234")
+kf = LineClient("teguhbot008@gmail.com","teguh1234")
 kf.log("Auth Token : " + str(kd.authToken))
 channel7 = LineChannel(kf)
 kf.log("Channel Access Token : " + str(channel7.channelAccessToken))
 
 
-kg = LineClient("09botsc@gmail.com","teguh1234")
+kg = LineClient("teguhbot001@gmail.com","teguh1234")
 kg.log("Auth Token : " + str(kd.authToken))
 channel8 = LineChannel(kg)
 kg.log("Channel Access Token : " + str(channel8.channelAccessToken))
 
 
-kh = LineClient("010botsc@gmail.com","teguh1234")
+kh = LineClient("teguhbot015@gmail.com","teguh1234")
 kh.log("Auth Token : " + str(kd.authToken))
 channel9 = LineChannel(kh)
 kh.log("Channel Access Token : " + str(channel9.channelAccessToken))
 
 
-kj = LineClient("011botsc@gmail.com","teguh1234")
+kj = LineClient("teguhbot018@gmail.com","teguh1234")
 kj.log("Auth Token : " + str(kd.authToken))
 channel10 = LineChannel(kj)
 kj.log("Channel Access Token : " + str(channel10.channelAccessToken))
 
 
-sw = LineClient("012botsc@gmail.com","teguh1234")
+sw = LineClient("teguhbot019@gmail.com","teguh1234")
 sw.log("Auth Token : " + str(sw.authToken))
 channel11 = LineChannel(sw)
 sw.log("Channel Access Token : " + str(channel11.channelAccessToken))
-print("---LOGIN SUCCES BOSS-")
+print("-LOGIN SUCCES BOSS-")
 
 poll = LinePoll(cl)
 call = cl
-creat = ["ue3045f0d8036bd621455809cbd7d0fba"]
-owner = ["ue3045f0d8036bd621455809cbd7d0fba"]
-admin = ["ue3045f0d8036bd621455809cbd7d0fba"]
-staff = ["ue3045f0d8036bd621455809cbd7d0fba"]
+creator = ["u4758d669a957b4dba256849330c98b55"]
+owner = ["u4758d669a957b4dba256849330c98b55"]
+admin = ["u4758d669a957b4dba256849330c98b55"]
+staff = ["u4758d669a957b4dba256849330c98b55"]
 mid = cl.getProfile().mid
 Amid = ki.getProfile().mid
 Bmid = kk.getProfile().mid
@@ -245,7 +245,7 @@ wait = {
     "Respontag":"PM AJA",
     "welcome":"Assalamu'alaikum WR.WB \nSELAMAT DATANG DAN SALAM KENAL \nJANGAN LUPA JALAN JALAN2 KE NOTE \nJANGAN BAPER LALU PUSKUN YA.. \nSEMOGA BAHAGIA, KERASAN DAN NYAMAN",
     "leave":"Slamat tinggal sobat\nsmoga ktmu di lain hari nanti",
-    "comment":" ──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n➣ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n➣ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n➣ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n➣ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n➣ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/Exv7vmiRm7\n➣ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────",
+    "comment":" ──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n▶️ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n▶️ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n▶️ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n▶️ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n▶️ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/Exv7vmiRm7\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────",
     "message":"Terimɑ Kɑsih yɑ....\nUdɑh Menɑmbɑhkɑn Sɑyɑ Sebɑgɑi Temɑn ɑndɑ.\nSemogɑ Kitɑ Bisɑ Jɑlin Silɑturɑhmi Dengɑn Bɑik.\n\nвστ вy:┄┅═TEGUHPATI═┅┄",
 }
 read = {
@@ -3734,7 +3734,29 @@ def bot(op):
                         elif text.lower() == 'assalamualaikum':
                                cl.sendMessage(msg.to, "ُوَعَلَيْكُمْ السَّلاَمُ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ  ")
                         elif text.lower() == 'waalaikumsalam':
-                               cl.sendMessage(msg.to, "ُIKUT JAWAH AHHHH \nWa'alaikumsalam WR.WB")
+                               cl.sendMessage(msg.to, "ُIkut jawab salam ya\nWa'alaikumsalam WR.WB")
+                        elif text.lower() == 'naik':
+                               cl.sendMessage(msg.to, "ُDuluan ya, aku masih sibuk")
+                        elif text.lower() == 'ayo naik':
+                               cl.sendMessage(msg.to, "ُMaaf aku masih kojom")
+                        elif text.lower() == 'mas teguh':
+                               cl.sendMessage(msg.to, "ُHadir bebz, ")
+                        elif text.lower() == 'pagi':
+                               cl.sendMessage(msg.to, "ُPagi juga")
+                        elif text.lower() == 'pagi all':
+                               cl.sendMessage(msg.to, "ُPagi juga")
+                        elif text.lower() == 'malam':
+                               cl.sendMessage(msg.to, "ُmalam juga")
+                        elif text.lower() == 'met malam':
+                               cl.sendMessage(msg.to, "ُMalam juga")
+                        elif text.lower() == 'salken':
+                               cl.sendMessage(msg.to, "ُSalam kenal juga")
+                        elif text.lower() == 'salken all':
+                               cl.sendMessage(msg.to, "ُSalken juga")
+                        elif text.lower() == 'naik mas':
+                               cl.sendMessage(msg.to, "ُMau dikasih apem ya \nKok nyuruh naik?")
+                        elif text.lower() == 'cipok':
+                               cl.sendMessage(msg.to, "ُWaduh.....pipi apa bibir?")
 
                         elif cmd.startswith("mid "):
                           if wait["selfbot"] == True:
@@ -4205,7 +4227,7 @@ def bot(op):
                             except: 
                                 pass
 
-                        elif cmd.startswith("protectqr on "):
+                        elif cmd.startswith("proqr on "):
                           if msg._from in admin:
                             separate = msg.text.split(" ")
                             number = msg.text.replace(separate[0] + " ","")
@@ -4672,17 +4694,17 @@ def bot(op):
                                start = time.time()
                                cl.sendMessage(msg.to, "[▶️TEGUH TEAM BOT].")
                                elapsed_time = time.time() - start
-                               ki.sendMessage(msg.to, "╚PASUKAN SATU╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kk.sendMessage(msg.to, "╚PAAUKAN DUA╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kc.sendMessage(msg.to, "╚PAAUKAN TIGA╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kb.sendMessage(msg.to, "╚PASUKAN EMPAT╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kd.sendMessage(msg.to, "╚PASUKAN LIMA╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               ke.sendMessage(msg.to, "╚PASUKAN ENAM╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kf.sendMessage(msg.to, "╚PASUKAN TUJUH╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kg.sendMessage(msg.to, "╚PASUKAN DELAPAN╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kh.sendMessage(msg.to, "╚PASUKAN SEMBILAN╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               kj.sendMessage(msg.to, "╚PAAUKAN SEPULAH╗\n╚HADIR..╮╗".format(str(elapsed_time)))
-                               sw.sendMessage(msg.to, "[▶️SEMUA HADIR...]")
+                               ki.sendMessage(msg.to, "╚PASUKAN 02╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kk.sendMessage(msg.to, "╚PASUKAN 03╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kc.sendMessage(msg.to, "╚PASUKAN 04╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kb.sendMessage(msg.to, "╚PASUKAN 05╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kd.sendMessage(msg.to, "╚PASUKAN 06╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               ke.sendMessage(msg.to, "╚PASUKAN 07╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kf.sendMessage(msg.to, "╚PASUKAN 08╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kg.sendMessage(msg.to, "╚PASUKAN 09╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kh.sendMessage(msg.to, "╚PASUKAN 10╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               kj.sendMessage(msg.to, "╚PAAUKAN 11╗\n╚HADIR..╮╗".format(str(elapsed_time)))
+                               sw.sendMessage(msg.to, "╚PAAUKAN 12╗\n╚HADIR..╮╗"\nSEMUA HADIR...]")
                                cl.sendMessage(msg.to, "╚SIAP AMAN KAN ╗\n╚ROOM INI..╮╗")
 
 
@@ -5108,7 +5130,7 @@ def bot(op):
 #===========BOT UPDATE============#
 
 #===========BOT UPDATE============#
-                        elif msg.text in ["Cipok","Cek"]:
+                        elif msg.text in ["Cipok","Cek","hay"]:
                                if wait["selfbot"] == True:
                                 if msg._from in admin:
                                  group = cl.getGroup(msg.to)
@@ -6124,7 +6146,7 @@ def bot(op):
                             zodiak = data["data"]["zodiak"]
                             cl.sendMessage(msg.to,"「 Date Info 」\n"+"「✭」 Date Of Birth : "+lahir+"\n「✭」 Age : "+usia+"\n「✭」 Ultah : "+ultah+"\n「✭」 Zodiak : "+zodiak)
 
-                        elif cmd.startswith("spamtag: "):
+                        elif cmd.startswith("st: "):
                           if wait["selfbot"] == True:
                            if msg._from in admin:
                                 proses = text.split(":")
@@ -6133,7 +6155,7 @@ def bot(op):
                                 Setmain["RAlimit"] = num
                                 cl.sendText(msg.to,"「 Status Spamtag 」\nBerhasil diubah jadi {} kali".format(str(strnum)))
 
-                        elif cmd.startswith("spamcall: "):
+                        elif cmd.startswith("sc: "):
                           if wait["selfbot"] == True:
                            if msg._from in admin:
                                 proses = text.split(":")
@@ -6142,7 +6164,7 @@ def bot(op):
                                 wait["limit"] = num
                                 cl.sendText(msg.to,"「 Status Spamcall 」\nBerhasil diubah jadi {} kali".format(str(strnum)))
 
-                        elif cmd.startswith("spamtag "):
+                        elif cmd.startswith("st "):
                           if wait["selfbot"] == True:
                            if msg._from in admin:
                                 if 'MENTION' in msg.contentMetadata.keys()!=None:
@@ -6171,7 +6193,7 @@ def bot(op):
                                     else:
                                         cl.sendText(msg.to,"Jumlah melebihi 1000")
                                         
-                        elif cmd.startswith("c "):
+                        elif cmd.startswith("call "):
                           if wait["selfbot"] == True:
                            if msg._from in admin:
                                 if 'MENTION' in msg.contentMetadata.keys()!=None:
@@ -6251,14 +6273,14 @@ def bot(op):
                         elif cmd == "respon" or cmd == "teguh":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                                cl.sendMessage(msg.to, "Pasukan  Teguh Hadir")
-                                ki.sendMessage(msg.to, "Pasukan  Teguh Hadir")
+                                cl.sendMessage(msg.to, "Pasukan Teguh Hadir")
+                                ki.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 kk.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 kc.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 kb.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 kd.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 ke.sendMessage(msg.to, "Pasukan Teguh Hadir")
-                                kf.sendMessage(msg.to, "Pasukan  Teguh Hadir")
+                                kf.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 kg.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 kh.sendMessage(msg.to, "Pasukan Teguh Hadir")
                                 cl.sendMessage(msg.to, "All pasukan Teguh Hdir\nAmankan Room\nDemi Amanat Bos Teguh")
@@ -6293,7 +6315,7 @@ def bot(op):
                                 except:
                                     pass           
 
-                        elif cmd == "mm":
+                        elif cmd == "m":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
@@ -6324,7 +6346,7 @@ def bot(op):
                                 G.preventedJoinByTicket = True
                                 cl.updateGroup(G)
 
-                        elif cmd == "pp":
+                        elif cmd == "p":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
@@ -6486,7 +6508,7 @@ def bot(op):
                                 G.preventedJoinByTicket = True
                                 kh.updateGroup(G)        
  
-                        elif cmd == "js m":
+                        elif cmd == "j m":
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
                                 ginfo = cl.getGroup(msg.to)
@@ -6502,7 +6524,7 @@ def bot(op):
                                 G.preventedJoinByTicket = True
                                 sw.updateGroup(G)
 
-                        elif cmd == "js p":
+                        elif cmd == "j p":
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
                                 kj.sendMessage(msg.to, "Ghost pulang "+str(G.name))
@@ -6751,9 +6773,9 @@ def bot(op):
                               kg.sendMessage(msg.to,"Sukses membersihkan " +mc)
                               kh.sendMessage(msg.to,"Sukses membersihkan " +mc)
 
-                        elif 'Js ' in msg.text:
+                        elif 'J ' in msg.text:
                            if msg._from in admin:
-                              spl = msg.text.replace('Antijs ','')
+                              spl = msg.text.replace('J ','')
                               if spl == 'on':
                                   if msg.to in protectantijs:
                                        msgs = "Anti JS sudah aktif"
@@ -6771,9 +6793,9 @@ def bot(op):
                                          msgs = "Anti JS Sudah Tidak Aktif"
                                     cl.sendMessage(msg.to, "「Dinonaktifkan」\n" + msgs)
                                     
-                        elif 'Gs ' in msg.text:
+                        elif 'G ' in msg.text:
                            if msg._from in admin:
-                              spl = msg.text.replace('Ghost ','')
+                              spl = msg.text.replace('G ','')
                               if spl == 'on':
                                   if msg.to in ghost:
                                        msgs = "Ghost sudah aktif"
@@ -6949,11 +6971,11 @@ def bot(op):
                              
                         elif cmd == "promo":
                           if msg._from in admin:
-                             cl.sendMessage(msg.to,"──────┅TEGUH-BOT┅──────\nOPEN ORDER\n────────┅┅───────\n➣SELFBOT ONLY\n➣SELFBOT + ASIST\n➣1 AKUN UTAMA\n➣1 AKUN UTAMA+ 2 ASIST\n➣1 AKUN UTAMA+ 3 ASIST\n➣1 AKUN UTAMA + 4 ASIST\n➣1 AKUN UTAMA+ 5 ASIST\n➣BOT PROTECT3-11 BOT ASIST\n➣SCRIFT BARU\n─────────┅┅─────────\n  ✯CREATOR SELFBOT✯\nhttps://line.me/ti/p/DP\n➣ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅RIRIN BOT┅────────")
+                             cl.sendMessage(msg.to,"──────┅TEGUH-BOT┅──────\nOPEN ORDER\n────────┅┅───────\n▶️SELFBOT ONLY\n▶️SELFBOT + ASIST\n▶️1 AKUN UTAMA\n▶️1 AKUN UTAMA+ 2 ASIST\n▶️1 AKUN UTAMA+ 3 ASIST\n▶️1 AKUN UTAMA + 4 ASIST\n▶️1 AKUN UTAMA+ 5 ASIST\n▶️BOT PROTECT3-11 BOT ASIST\n▶️SCRIFT BARU\n─────────┅┅─────────\n  ✯CREATOR SELFBOT✯\nhttps://line.me/ti/p/Exv7vmiRm7\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅TEGUH-BOT┅────────")
                              msg.contentType = 13
                              msg.contentMetadata = {'mid': admin}
                              tanya = msg.text.replace("promo ","")
-                             jawab = ("──────┅TEGUH_BOT┅──────\nOPEN ORDER\n────────┅┅───────\n➣SELFBOT ONLY\n➣SELFBOT + ASIST\n➣1 AKUN UTAMA\n➣1 AKUNNUTAMA+ 2 ASIST\n➣1 AKUNNUTA,A + 3 ASIST\n➣1 AKUN UTAMA + 4 ASIST\n➣1 AKUNNUTAMA + 5 ASIST\n➣BOT PROTECT 3-11 BOT ASIST\n➣SCRIPT BARU\n─────────┅┅─────────\n  ✯CREATOR SELFBOT✯\nhttps://line.me/ti/p/D\n➣ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅RIRIN BOT┅────────")
+                             jawab = ("──────┅TEGUH_BOT┅──────\nOPEN ORDER\n────────┅┅───────\n▶️SELFBOT ONLY\n▶️SELFBOT + ASIST\n▶️1 AKUN UTAMA\n▶️1 AKUNNUTAMA+ 2 ASIST\n▶️1 AKUNNUTA,A + 3 ASIST\n▶️1 AKUN UTAMA + 4 ASIST\n▶️1 AKUNNUTAMA + 5 ASIST\n▶️BOT PROTECT 3-11 BOT ASIST\n▶️SCRIPT BARU\n─────────┅┅─────────\n  ✯CREATOR SELFBOT✯\nhttps://line.me/ti/p/Exv7vmiRm7\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅TEGUH-BOT┅────────")
                              jawaban = random.choice(jawab)
                              tts = gTTS(text=jawaban, lang='id')
                              tts.save('tts.mp3')
@@ -7035,7 +7057,7 @@ def bot(op):
                         elif cmd == "harga":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               cl.sendMessage(msg.to, "╭══════════\n║─[     DAFTAR HARGA     ]─\n║SELFBOT ONLY = 75K /BLN\n║2 ASIST = 100K /BLN\n║5 ASIST = 200K /BLN\n║10 ASIST = 300K /BLN\n║\n║PROTECT ANTIJS\n║\n║2 BOT + ANTIJS = 150K /BLN\n║5 BOT + ANTIJS = 300K /BLN\n║10 BOT + ANTIJS = 500K /BLN\n║\n║═ই\═JIKA MINAT\n║ SILAHKAN ADD CONTACT \n║ DIBAWAH INI   \n║\n║https://line.me/ti/p/D\n║       makasih     \n║\n╰════════════")
+                               cl.sendMessage(msg.to, "╭══════════\n║─[     DAFTAR HARGA     ]─\n║SELFBOT ONLY = 75K /BLN\n║2 ASIST = 100K /BLN\n║5 ASIST = 200K /BLN\n║10 ASIST = 300K /BLN\n║\n║PROTECT ANTIJS\n║\n║2 BOT + ANTIJS = 150K /BLN\n║5 BOT + ANTIJS = 300K /BLN\n║10 BOT + ANTIJS = 500K /BLN\n║\n║═ই\═JIKA MINAT\n║ SILAHKAN ADD CONTACT \n║ DIBAWAH INI   \n║\n║https://line.me/ti/p/Exv7vmiRm7\n║       makasih     \n║\n╰════════════")
                                cl.sendMessage(msg.to, "Yuk yg minat di Order.... ")
 #===========Protection============#
                         elif 'W ' in msg.text:
@@ -7216,7 +7238,7 @@ def bot(op):
                                 cl.sendMessage(msg.to,"Send Contact to spam grup..")
 
                         elif cmd == "spaminvite off":
-                          if wait["selfbot"] == False:
+                          if wait["selfbot"] == True:
                             if msg._from in admin:
                                 settings["SpamInvite"] = False
                                 cl.sendMessage(msg.to,"Send Contact to send grup Off..")
@@ -7305,25 +7327,25 @@ def bot(op):
                                 wait["autoJoin"] = False
                                 cl.sendText(msg.to,"「 Status Autojoin 」\nAutojoin telah dinonaktifkan")
 
-                        elif cmd == "leave on" or text.lower() == 'leave on':
+                        elif cmd == "l on" or text.lower() == 'l on':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoLeave"] = True
                                 cl.sendText(msg.to,"「 Status Autoleave 」\nAutoleave telah diaktifkan")
 
-                        elif cmd == "leave off" or text.lower() == 'leave off':
+                        elif cmd == "l off" or text.lower() == 'l off':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoLeave"] = False
                                 cl.sendText(msg.to,"「 Status Autoleave 」\nAutoleave telah dinonaktifkan")
 
-                        elif cmd == "block on" or text.lower() == 'block on':
+                        elif cmd == "b on" or text.lower() == 'b on':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoBlock"] = True
                                 cl.sendText(msg.to,"「 Status Autoleave 」\nAutoleave telah diaktifkan")
 
-                        elif cmd == "block off" or text.lower() == 'block off':
+                        elif cmd == "b off" or text.lower() == 'b off':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoBlock"] = False
