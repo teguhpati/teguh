@@ -30,10 +30,10 @@ print("\nBOT MULAI BERJALAN......\n")
 
 poll = LinePoll(cl)
 call = cl
-creator = ["u98becbc6f1c69c0e06f58c54cb8f5a47"]
-owner = ["u98becbc6f1c69c0e06f58c54cb8f5a47"]
-admin = ["u98becbc6f1c69c0e06f58c54cb8f5a47"]
-staff = ["u98becbc6f1c69c0e06f58c54cb8f5a47]
+creator = ["ub08c8855c2b00b69372172b2a8994b8b"]
+owner = ["ub08c8855c2b00b69372172b2a8994b8b"]
+admin = ["ub08c8855c2b00b69372172b2a8994b8b"]
+staff = ["ub08c8855c2b00b69372172b2a8994b8b"]
 lineProfile = cl.getProfile()
 mid = cl.getProfile().mid
 KAC = [cl]
@@ -147,10 +147,10 @@ wait = {
             },
     "unsend":True,
     "mention":"CIE...CIE...KETAHUAN NGINTIP... \nPASTI LAGI KOJOM YA? WKWK \nAYO NAIK KITA KOJOM BERJAMAAH",
-    "Respontag":"PM AJA YA",
+    "Respontag":"Ada yg bisa saya bantu?\nPM aja ya..tapi yg mesra..hehe",
     "welcome":"Assalamu'alaikum WR.WB \nSELAMAT DATANG DAN SALAM KENAL \nJANGAN LUPA CEK NOTE YA KAKAK \nSEMOGA BAHAGIA,KERASAN DAN NYAMAN",
     "leave":"Slamat tinggal sobat\nsmoga ktmu di lain hari nanti",
-    "comment":" ──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n▶️ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n▶️ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n▶️ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n▶️ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n▶️ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/Exv7vmiRm7\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────",
+    "comment":" ──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n▶️ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n▶️ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n▶️ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n▶️ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n▶️ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/cnJtJ8aizM\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────",
     "message":"Terimɑ Kɑsih yɑ....\nUdɑh Menɑmbɑhkɑn Sɑyɑ Sebɑgɑi Temɑn ɑndɑ.\nSemogɑ Kitɑ Bisɑ Jɑlin Silɑturɑhmi Dengɑn Bɑik.\n\nвστ вy:┄┅═TEGUH-PATI═┅┄",
 }
 read = {
@@ -272,7 +272,7 @@ def siderMembers(to, mid):
 def welcomeMembers(to, mid):
     try:
         arrData = ""
-        textx = "🙏🏻 ".format(str(len(mid)))
+        textx = " ".format(str(len(mid)))
         arr = []
         no = 1
         num = 2
@@ -295,12 +295,12 @@ def welcomeMembers(to, mid):
                     no = "\n╚══[ Success ]"
         cl.sendMessage(to, textx, {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
     except Exception as error:
-        cl.sendMessage(to, "🙏🏻 :\n" + str(error))
+        cl.sendMessage(to, " :\n" + str(error))
 
 def leaveMembers(to, mid):
     try:
         arrData = ""
-        textx = "🙏🏻 ".format(str(len(mid)))
+        textx = " ".format(str(len(mid)))
         arr = []
         no = 1
         num = 2
@@ -323,7 +323,7 @@ def leaveMembers(to, mid):
                     no = "\n╚══[ Success ]"
         cl.sendMessage(to, textx, {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
     except Exception as error:
-        cl.sendMessage(to, "🙏🏻 :\n" + str(error))
+        cl.sendMessage(to, " :\n" + str(error))
 
 
 def sendMention(to, mid, firstmessage, lastmessage):
@@ -331,15 +331,15 @@ def sendMention(to, mid, firstmessage, lastmessage):
         arrData = ""
         text = "%s " %(str(firstmessage))
         arr = []
-        mention = "@x "
+        mention = " "
         slen = str(len(text))
         elen = str(len(text) + len(mention) - 1)
         arrData = {'S':slen, 'E':elen, 'M':mid}
         arr.append(arrData)
         text += mention + str(lastmessage)
-        cl.sendMessage(to, text, {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
+        cl.sendMessage(to, text, {'>MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
     except Exception as error:
-        cl.sendMessage(to, "🙏🏻 :\n" + str(error))
+        cl.sendMessage(to, " :\n" + str(error))
 
 def sendMention1(to, mid, firstmessage, lastmessage):
     try:
@@ -354,7 +354,7 @@ def sendMention1(to, mid, firstmessage, lastmessage):
         text += mention + str(lastmessage)
         ki.sendMessage(to, text, {'MENTION': str('{"MENTIONEES":' + json.dumps(arr) + '}')}, 0)
     except Exception as error:
-        cl.sendMessage(to, "🙏🏻 :\n" + str(error))
+        cl.sendMessage(to, " :\n" + str(error))
 
 def command(text):
     pesan = text.lower()
@@ -491,8 +491,8 @@ def help1():
                   "▶️" + key + "ᴜᴘᴅᴀᴛᴇɢʀᴜᴘ\n" + \
                   "▶️" + key + "ɢɪғᴛ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
                   "▶️" + key + "sᴘᴀᴍ:「ᴍɪᴅ ᴋᴏʀʙᴀɴ」「ᴊᴜᴍʟᴀʜ」\n" + \
-                  "▶️  ʙʏ: [[┄┅═TEGUH-BOT PROTECT═┅┄]]\n" + \
-                  "  Creator: https://line.me/ti/p/Exv7vmiRm7 "
+                  "▶️  ʙʏ: [[┄┅═TEGUH-BOT-PROTECT═┅┄]]\n" + \
+                  "  Creator: https://line.me/ti/p/cnJtJ8aizM"
                   
     return helpMessage1
 
@@ -524,8 +524,8 @@ def help2():
                   "▶️ " + key + "sᴇᴛ ʀᴇsᴘᴏɴ:「ᴛᴇxᴛ」\n" + \
                   "▶️ " + key + "sᴇᴛ ʟᴇᴀᴠᴇ:「ᴛᴇxᴛ」\n" + \
                   "▶️ " + key + "sᴇᴛ ᴡᴇʟᴄᴏᴍᴇ:「ᴛᴇxᴛ」\n" + \
-                  " [[┄┅═TEGUH BOT PROTECT═┅┄]]\n" + \
-                  "Creator: https://line.me/ti/p/Exv7vmiRm7"
+                  " [[┄┅═TEGUH-BOT-PROTECT═┅┄]]\n" + \
+                  "Creator: https://line.me/ti/p/cnJtJ8aizM"
 
     return helpMessage3
 
@@ -594,11 +594,11 @@ def bot(op):
                                 zx = ""
                                 zxc = ""
                                 zx2 = []
-                                xpesan =  "「 ɢᴀᴍʙᴀʀ ᴅɪʜᴀᴘᴜs  」\n• ❂ ᴘᴇɴɢɪʀɪᴍ : "
-                                ret_ = "• ❂ ɴᴀᴍᴀ ɢʀᴜᴘ: {}".format(str(ginfo.name))
-                                ret_ += "\n• ❂ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
+                                xpesan =  "「 ɢᴀᴍʙᴀʀ ᴅɪʜᴀᴘᴜs  」\n• ▶️ ᴘᴇɴɢɪʀɪᴍ : "
+                                ret_ = "• ▶️ ɴᴀᴍᴀ ɢʀᴜᴘ: {}".format(str(ginfo.name))
+                                ret_ += "\n• ▶️ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
                                 ret_ += "\n[[┄┅═TEGUH_PATI═┅┄]]"
-                                ret_ += "\nCreator: https://line.me/ti/p/Exv7vmiRm7" 
+                                ret_ += "\nCreator: https://line.me/ti/p/cnJtJ8aizM" 
                                 ry = str(ryan.displayName)
                                 pesan = ''
                                 pesan2 = pesan+"@x \n"
@@ -614,12 +614,12 @@ def bot(op):
                                 ginfo = cl.getGroup(at)
                                 ryan = cl.getContact(msg_dict[msg_id]["from"])
                                 ret_ =  "「 ᴘᴇsᴀɴ ᴅɪʜᴀᴘᴜs  」\n" 
-                                ret_ += "• ❂ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
-                                ret_ += "\n• ❂ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
-                                ret_ += "\n• ❂ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ: {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
-                                ret_ += "\n• ❂ᴘᴇsᴀɴɴʏᴀ : {}".format(str(msg_dict[msg_id]["text"]))
+                                ret_ += "• ▶️ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
+                                ret_ += "\n• ▶️ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
+                                ret_ += "\n• ▶️ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ: {}".format(dt_to_str(cTime_to_datetime(msg_dict[msg_id]["createdTime"])))
+                                ret_ += "\n• ▶️ ᴘᴇsᴀɴɴʏᴀ : {}".format(str(msg_dict[msg_id]["text"]))
                                 ret_ += "\n[[┄┅═TEGUH_PATI═┅┄]]"
-                                ret_ += "\nCreator: https://line.me/ti/p/Exv7vmiRm7" 
+                                ret_ += "\nCreator: https://line.me/ti/p/cnJtJ8aizM" 
                                 cl.sendMessage(at, str(ret_))
                         del msg_dict[msg_id]
                 except Exception as e:
@@ -635,11 +635,11 @@ def bot(op):
                                 ginfo = cl.getGroup(at)
                                 ryan = cl.getContact(msg_dict1[msg_id]["from"])
                                 ret_ =  "「 sᴛɪᴄᴋᴇʀ ᴅɪʜᴀᴘᴜs」\n"
-                                ret_ += "• ❂ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
-                                ret_ += "\n• ❂ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
-                                ret_ += "\n• ❂ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict1[msg_id]["createdTime"])))
+                                ret_ += "• ▶️ ᴘᴇɴɢɪʀɪᴍ : {}".format(str(ryan.displayName))
+                                ret_ += "\n• ▶️ ɴᴀᴍᴀ ɢʀᴜᴘ : {}".format(str(ginfo.name))
+                                ret_ += "\n• ▶️ ᴡᴀᴋᴛᴜ ɴɢɪʀɪᴍ : {}".format(dt_to_str(cTime_to_datetime(msg_dict1[msg_id]["createdTime"])))
                                 ret_ += "\n[[┄┅═TEGUH_PATI═┅┄]]"
-                                ret_ += "\nCreator: https://line.me/ti/p/Exv7vmiRm7" 
+                                ret_ += "\nCreator: https://line.me/ti/p/cnJtJ8aizM" 
                                 ret_ += "{}".format(str(msg_dict1[msg_id]["text"]))
                                 cl.sendMessage(at, str(ret_))
                                 cl.sendImage(at, msg_dict1[msg_id]["data"])
@@ -1819,7 +1819,7 @@ def bot(op):
                                           break
 
 #===========BOT UPDATE============#
-                        elif msg.text in ["All","Kojom","Nikung"]:
+                        elif msg.text in ["All","Nikung"]:
                                if wait["selfbot"] == True:
                                 if msg._from in admin:
                                  group = cl.getGroup(msg.to)
@@ -1867,7 +1867,7 @@ def bot(op):
                                     mc += str(a) + ". " +cl.getContact(m_id).displayName + "\n"
                                 cl.sendMessage(msg.to,"「 Daftar Admin 」\n\nSuper admin:\n"+ma+"\nAdmin:\n"+mb+"\nStaff:\n"+mc+"\nTotal「%s」Pengguna Selfbot" %(str(len(owner)+len(admin)+len(staff))))
 
-                        elif cmd == "medal":
+                        elif cmd == "pamit ijin left":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 G = cl.getGroup(msg.to)
@@ -3009,13 +3009,13 @@ def bot(op):
                              ret_ += "\nTotal「{}」Stickers".format(str(len(stickers)))
                              cl.sendText(to, ret_)
                              
-                        elif cmd == "iklan":
+                        elif cmd == "promo":
                           if msg._from in admin:
-                             cl.sendMessage(msg.to,"──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n➣ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n➣ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n➣ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n➣ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n➣ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/Exv7vmiRm7\n➣ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────")
+                             cl.sendMessage(msg.to,"──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n▶️ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n▶️ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n▶️ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n▶️ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n▶️ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/cnJtJ8aizM\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────")
                              msg.contentType = 13
                              msg.contentMetadata = {'mid': admin}
                              tanya = msg.text.replace("promo ","")
-                             jawab = ("──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n➣ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n➣ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n➣1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n➣ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n➣ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n➣ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/Exv7vmiRm7\n➣ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────")
+                             jawab = ("──────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅──────\nᴼᴾᴱᴺ ᴼᴿᴰᴱᴿ\n────────┅┅───────\n▶️ꜱᴇʟꜰʙᴏᴛ ᴏɴʟʏ\n▶️ꜱᴇʟꜰʙᴏᴛ + ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 2 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 3 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 4 ᴀꜱɪꜱᴛ\n▶️1 ᴀᴋᴜɴ ᴜᴛᴀᴍᴀ + 5 ᴀꜱɪꜱᴛ\n▶️ʙᴏᴛᴘʀᴏᴛᴇᴄᴛ 3-11 ʙᴏᴛ ᴀꜱɪꜱᴛ\n▶️ɴᴇᴡ ꜱᴄʀɪᴘᴛ\n▶️ʜʀɢᴀ ʙɪꜱᴀ ɴᴇɢᴏ\n─────────┅┅─────────\n  ✯❇͜͡❇͜͡C͜͡r͜͡e͜͡a͜͡t͜͡o͜͡r✯͜͡$͜͡ë͜͡I͜͡F͜͡-͜͡฿͜͜͡͡o͜͡t͜͡ ͜͡❇͜͡❇✯\nhttps://line.me/ti/p/cnJtJ8aizM\n▶️ѕєʟғвот κɪcκєʀ_+_ᴘʀᴏᴛᴇᴄᴛ\n────────┅❇͜͡❇͜͡☆͜͡❇͜͡❇┅────────")
                              jawaban = random.choice(jawab)
                              tts = gTTS(text=jawaban, lang='id')
                              tts.save('tts.mp3')
@@ -3076,7 +3076,7 @@ def bot(op):
 "║╗╣║╠╣║━║║━║╠╣║\n"
 "╚╩╝╚╝╚╝━╚╝━╚╝╚╝\n"
 "━━━━━━━━━━━━━━━\n"
-">>>Ⓑⓨⓔ_Ⓑⓨⓔ ⒼⒸ Ⓛⓐⓚⓝⓐⓣ>><\nⒹⓝⓓⓐⓜ Ⓒⓐⓡⓘ Ⓚⓜⓘ\n<<<<<<<<<>>\nhttps://line.me/ti/p/Exv7vmiRm7")
+">>>Ⓑⓨⓔ_Ⓑⓨⓔ ⒼⒸ Ⓛⓐⓚⓝⓐⓣ>><\nⒹⓝⓓⓐⓜ Ⓒⓐⓡⓘ Ⓚⓜⓘ\n<<<<<<<<<>>\nhttps://line.me/ti/p/cnJtJ8aizM")
                                cl.sendMessage(msg.to, None, contentMetadata={"STKID":"15996978","STKPKGID":"1416471","STKVER":"1"}, contentType=7)
 
                         elif cmd == "tgh-bot" or cmd == "teguh":
@@ -3090,8 +3090,8 @@ def bot(op):
                         elif cmd == "harga":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
-                               cl.sendMessage(msg.to, "╭══════════\n║⚫─[     DAFTAR HARGA     ]─⚫ \n║SELFBOT ONLY = 50K /BLN\n║2 ASSIST = 100K /BLN\n║5 ASSIST = 200K /BLN\n║10 ASSIST = 300K /BLN\n║\n║PROTECT ANTIJS\n║\n║2 BOT + ANTIJS = 150K /BLN\n║5 BOT + ANTIJS = 300K /BLN\n║10 BOT + ANTIJS = 500K /BLN\n║\n║═\═ANDA BERMINAT\n║ SILAHKAN ADD CONTACT \n║ DIBAWAH INI   \n║\n║https://line.me/ti/p/Exv7vmiRm7\n║TERIMA KASIH      \n║\n╰════════════")
-                               cl.sendMessage(msg.to, "Yuck di Order.... ")
+                               cl.sendMessage(msg.to, "╭══════════\n║─[     DAFTAR HARGA     ]─ \n║▶️SELFBOT ONLY = 50K /BLN\n║▶️2 ASSIST = 100K /BLN\n║▶️5 ASSIST = 200K /BLN\n║▶️10 ASSIST = 300K /BLN\n║\n║PROTECT ANTIJS\n║\n║▶️2 BOT + ANTIJS = 150K /BLN\n║▶️5 BOT + ANTIJS = 300K /BLN\n║▶️10 BOT + ANTIJS = 500K /BLN\n║\n║ANDA BERMINAT\n║SILAHKAN ADD CONTACT \n║DIBAWAH INI   \n║\n║https://line.me/ti/p/cnJtJ8aizM\n║TERIMA KASIH      \n║\n╰════════════")
+                               cl.sendMessage(msg.to, "TEAM TEGUH-BOT ")
 
 #===========ADMIN ADD============#
                         elif ("Adminadd " in msg.text):
@@ -3214,7 +3214,7 @@ def bot(op):
                                 wait["dellbots"] = True
                                 cl.sendMessage(msg.to,"Please send to contact...")
 
-                        elif cmd == "refresh" or text.lower() == 'refresh':
+                        elif cmd == "refresh" or text.lower() == 'fresh':
                             if msg._from in admin:
                                 wait["addadmin"] = False
                                 wait["delladmin"] = False
@@ -3414,13 +3414,13 @@ def bot(op):
                                     cl.sendMessage(msg.to, "「 Status Protection 」\n" + msgs)
 
 #===========COMMAND ON OFF============#
-                        elif cmd == "spaminvite on":
+                        elif cmd == "SpamInvite on":
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 settings["SpamInvite"] = True
                                 cl.sendMessage(msg.to,"Send Contact to spam grup..")
 
-                        elif cmd == "spaminvite off":
+                        elif cmd == "SpamInvite off":
                           if wait["selfbot"] == False:
                             if msg._from in admin:
                                 settings["SpamInvite"] = False
@@ -3490,37 +3490,37 @@ def bot(op):
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["detectMention"] = True
-                                cl.sendText(msg.to,"「 Status Respon 」\nAuto respon diaktifkan")
+                                cl.sendText(msg.to,"Sudah diaktifkan")
 
                         elif cmd == "r off" or text.lower() == 'r off':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["detectMention"] = False
-                                cl.sendText(msg.to,"「 Status Respon 」\nAuto respon dinonaktifkan")
+                                cl.sendText(msg.to,"Sudah dinonaktifkan")
 
                         elif cmd == "j on" or text.lower() == 'j on':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoJoin"] = True
-                                cl.sendText(msg.to,"「 Status Autojoin 」\nAutojoin telah diaktifkan")
+                                cl.sendText(msg.to,"Sudah diaktifkan")
 
                         elif cmd == "j off" or text.lower() == 'j off':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoJoin"] = False
-                                cl.sendText(msg.to,"「 Status Autojoin 」\nAutojoin telah dinonaktifkan")
+                                cl.sendText(msg.to,"Sudah dinonaktifkan")
 
                         elif cmd == "l on" or text.lower() == 'l on':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoLeave"] = True
-                                cl.sendText(msg.to,"「 Status Autoleave 」\nAutoleave telah diaktifkan")
+                                cl.sendText(msg.to,"Sudah diaktifkan")
 
                         elif cmd == "l off" or text.lower() == 'l off':
                           if wait["selfbot"] == True:
                             if msg._from in admin:
                                 wait["autoLeave"] = False
-                                cl.sendText(msg.to,"「 Status Autoleave 」\nAutoleave telah dinonaktifkan")
+                                cl.sendText(msg.to,"Sudah dinonaktifkan")
 
                         elif cmd == "b on" or text.lower() == 'b on':
                           if wait["selfbot"] == True:
